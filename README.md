@@ -33,7 +33,7 @@ Alexandre Lionnet - Jean Barré
 - Introduction à l'analyse textuelle en Python.
 - Utilisation des expressions régulières et de la bibliothèque NLTK.
 
-## Séance 08 - Analyse Textuelle ² - Notions de Base et Expressions Régulières -- 21/11 -- JB
+## Séance 08 - Analyse Textuelle² -- 21/11 -- JB
 - Application pratique sur des textes littéraires.
 
 ## Séance 09 - POO et Modules Python -- 05/12 -- AL
