@@ -1,6 +1,7 @@
 # Python4DH -- 2025
 Repository pour le cours M1 HN de l'École des Chartes S1
-Alexandre Lionnet - Jean Barré
+
+Alexandre Lionnet & Jean Barré
 
 
 ## Séance 01 - Introduction et Fondamentaux -- 03/10 -- JB
